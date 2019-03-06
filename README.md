@@ -25,4 +25,10 @@ If you are using the Anaconda , then open **JupyterLab** in that respective disk
 replaced cap = **cv2.VideoCapture(0)** to **cap = cv2.VideoCapture(1)**
 
 
+## Output for Happy Face Detection
+
 <img src="happy.png" alt="Happy" width="200" />
+
+## Output for Sad Face Detection
+
+<img src="sad.png" alt="Sad" width="200" />
