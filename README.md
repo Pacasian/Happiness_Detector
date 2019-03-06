@@ -27,8 +27,8 @@ replaced cap = **cv2.VideoCapture(0)** to **cap = cv2.VideoCapture(1)**
 
 ## Output for Happy Face Detection
 
-<img src="happy.png" alt="Happy" width="200" />
+<img src="happy.png" alt="Happy" width="500" />
 
 ## Output for Sad Face Detection
 
-<img src="sad.png" alt="Sad" width="200" />
+<img src="sad.png" alt="Sad" width="500" />
