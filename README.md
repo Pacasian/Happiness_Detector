@@ -3,7 +3,7 @@
 
 This Project is a simple smile detection application, which uses the HaarCascade functionality to 
 identify whether a person is happy or not .
-The project is still in development phase with an average aquracy of 69%
+The project is still in development phase with an average accuracy of 69%.
 
 
 The pre-requesties for the implemetation for this project are:
