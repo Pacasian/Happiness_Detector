@@ -7,8 +7,8 @@ The project is still in development phase with an average aquracy of 69%
 
 
 The pre-requesties for the implemetation for this project are:
-->python3.2
-->Using the terminal ---  pip install opencv-python==3.2.0.7
+- ->python3.2
+- ->Using the terminal ---  pip install opencv-python==3.2.0.7
 
 Download the cvcourse for your os and ..
 
