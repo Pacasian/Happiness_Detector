@@ -23,3 +23,6 @@ If you are using the Anaconda , then open **JupyterLab** in that respective disk
 
 ** If you are using the External WebCamera make sure that your 
 replaced cap = **cv2.VideoCapture(0)** to **cap = cv2.VideoCapture(1)**
+
+
+<img src="happy.png" alt="Happy" width="200" />
