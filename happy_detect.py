@@ -45,7 +45,7 @@ while True:
     frame = detect_face(frame)
     
     cv2.imshow('Smile_Detection', frame) 
-    c = cv2.waitKey(0) 
+    c = cv2.waitKey(1) 
     if c == 27:
         break 
 
